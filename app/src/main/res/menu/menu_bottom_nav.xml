@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/profil"
+        android:title="Profil"
+        android:icon="@drawable/profil"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/bookmark"
+        android:title="Bookmark"
+        android:icon="@drawable/bookmark"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/searh"
+        android:title="Searh"
+        android:icon="@drawable/searching"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        tools:ignore="HardcodedText" />
+
+
+
+</menu>
